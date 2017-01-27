@@ -69,4 +69,4 @@ kramdown:
     css:               style
 
 
-  include: ['_pages']
+include: ['_pages']
