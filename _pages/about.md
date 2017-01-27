@@ -4,36 +4,25 @@ title: About
 permalink: /about/
 ---
 
-We never thought of findin' a place where we belong. Don't have to stand alone, we'll never let you fall. Don't need permission to decide what you believe. You gotta learn something when we meet you after school. I said jump, down on Jump Street. I said jump, down on Jump Street. Your friends will be there when your back is to the wall. You'll find you'll need us cause there's no one else to call. When it was hopeless a decision is what you need. You'd better be ready cause' your runnin' outta time. Say jump, 21 Jump, Street.
+I'm currently working on restarting my personal tech blog here, using Jekyll and GitHub Pages. More updates coming as I work through the kinks.
+Plus, I'll probably put a little more information about me here.
 
 {% highlight javascript %}
-function meow() {
-    return 'meow';
+function getDeveloperInfo() {
+    var dev = {
+        name: '{{ site.data.me.name }}',
+        twitter: '{{ site.data.me.twitter }}',
+        currentDevLoves: ['Angular', 'JavaScript', 'd3', 'CSS instead of JS'],
+        nonDevAttr : {
+            husband: true,
+            father: true,
+            hobbies: ['Running', 'Disney', 'Cooking', 'Video Games', 'Photography'],
+            twitter: '{{ site.data.me.otherTwitter }}',
+            web: '{{ site.data.me.otherWeb }}',
+        }
+    };
+    return dev;
 }
 
-function bark() {
-    return 'woof';
-}
-
-function getRandomAnimal() {
-
-    var animals = [
-        'cat',
-        'dog',
-        'hippo',
-        'lion',
-        'bear',
-        'zebra'
-    ];
-
-    return animals[Math.floor(Math.random()*animals.length)];
-}
-
-console.log(meow());
-console.log(bark());
-console.log(getRandomAnimal());
+console.debug(getDeveloperInfo());
 {% endhighlight %}
-
-They arrived in fifty mother ships, offering their friendship and advance technology to Earth. Skeptical of the visitors, Mike Donovan and Juliet Parrish infiltrated their ranks and soon discovered some startling secrets. The resistance is all that stands between us... and the visitors.
-
-Once in every lifetime, comes a love like this. Oh I need you, you need me, oh my darling can't you see. Young Ones. Darling we're the Young Ones. Young Ones. Shouldn't be afraid. To live, love, there's a song to be sung. Cause we may not be the Young Ones very long.
