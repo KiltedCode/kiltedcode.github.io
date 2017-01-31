@@ -54,6 +54,7 @@ nav.navbar {
         i {
             transition: inherit;
             color: $scotch-primary;
+            margin-right: .15em;
             transform: scale(1);
         }
 
@@ -235,7 +236,32 @@ aside {
 }
 
 .site-footer {
-    margin-top: 200px;
+    background-color: $scotch-primary;
+    color: #fff;
+    margin-top: 150px;
+    padding-top: 1em;
+}
+
+a.footer-link {
+    color: #fff;
+    padding-right: 1em;
+    text-transform: none;
+
+    i {
+        transition: inherit;
+        color: #fff;
+        margin-right: .15em;
+        transform: scale(1);
+    }
+
+    &:hover {
+        color: #cdcdcd;
+
+        i {
+            color: #ddd;
+            transform: scale(1.35);
+        }
+    }
 }
 
 .pagination-wrap {

@@ -14,11 +14,13 @@ function getDeveloperInfo() {
     var dev = {
         name: '{{ site.data.me.name }}',
         twitter: '{{ site.data.me.twitter }}',
+        github: '{{ site.data.me.github }}',
+        web: '{{ site.data.me.web }}',
         currentDevLoves: ['Angular', 'JavaScript', 'd3', 'CSS instead of JS'],
         nonDevAttr : {
             husband: true,
             father: true,
-            hobbies: ['Running', 'Disney', 'Cooking', 'Video Games', 'Photography'],
+            hobbies: ['running', 'disney', 'cooking', 'video games', 'photography'],
             twitter: '{{ site.data.me.otherTwitter }}',
             web: '{{ site.data.me.otherWeb }}',
         }
