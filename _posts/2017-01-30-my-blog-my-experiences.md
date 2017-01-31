@@ -1,10 +1,10 @@
 ---
 layout: inner
 title: 'My Blog of My Dev Experiences'
-date: 2017-01-30 19:30:00
+date: 2017-01-30 21:05:00
 categories: general
 tags: intro
-lead_text: 'Welcome to my ramblings.'
+lead_text: 'Welcome to my ramblings. Enjoy.'
 ---
 
 I've been inspired to restart my technical blogging and share my coding experiences with anyone who bothers to read them. This is just a simple introductory post. 
