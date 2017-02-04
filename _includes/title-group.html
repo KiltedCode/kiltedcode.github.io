@@ -33,9 +33,13 @@
     {% endif %}
     <p class="lead">
         {% if page.lead_text %}
+            <i class="fa fa-quote-left lead-icon lead-icon-left"></i>
             {{ page.lead_text }}
+            <i class="fa fa-quote-right lead-icon lead-icon-right"></i>
         {% elsif post.lead_text %}
+            <i class="fa fa-quote-left lead-icon lead-icon-left"></i>
             {{ post.lead_text }}
+            <i class="fa fa-quote-right lead-icon lead-icon-right"></i>
         {% else %}
             {{ site.data.global.description }}
         {% endif %}

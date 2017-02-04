@@ -298,6 +298,23 @@ pre {
     margin: 50px -100px;
 }
 
+.lead-icon {
+    color: $navbar-inverse-bg;
+    font-size: 1.25em;
+    opacity: .75;
+    position: relative;
+}
+
+.lead-icon-left {
+    left: -.25em;
+    top: -.25em;
+}
+
+.lead-icon-right {
+    right: -.25em;
+    bottom: -.25em;
+}
+
 
 @media only screen and (max-width : 991px) {
     pre {
