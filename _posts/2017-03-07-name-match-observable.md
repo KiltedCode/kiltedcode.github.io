@@ -17,7 +17,7 @@ In my latest project, I have an API made available to me to check if a site name
 
 ## Code
 
-All of the code shown below, and examples to run can be found in my GitHub repo [available-observable-example](https://github.com/RHGeek/available-observable-example). 
+All of the code shown below, and examples to run can be found in my GitHub repo [name-match-observable-example](https://github.com/RHGeek/name-match-observable-example). 
 
 ## Dependencies
 
@@ -26,7 +26,7 @@ I personally find Angular-CLI very useful, though opinionated. It has additional
 
 ## The API
 
-First, we'll briefly discuss the API that I was given, as it took some extra consideration to get working quite the way I wanted. The API takes in a string, the site name, and then returns either a <code>200 OK</code> if the site name is not taken or <code>409 Conflict</code> if the name is already in use. Could the API be done differently in a way that makes the component and service simplier? Sure. But our goal is to use this API as it exists, so that's what we'll do. We'll just mock this for our service to call in the <code>mock-api.ts</code>.
+First, we'll briefly discuss the API that I was given, as it took some extra consideration to get working quite the way I wanted. The API takes in a string, the site name, and then returns either a <code>200 OK</code> if the site name is not taken or <code>409 Conflict</code> if the name is already in use. Could the API be done differently in a way that makes the component and service simplier? Sure. But our goal is to use this API as it exists, so that's what we'll do. We'll just mock this for our service to call in the [mock-api.ts](https://github.com/RHGeek/name-match-observable-example/blob/master/src/app/shared/mock-api.ts).
 
 # Making the Component
 
