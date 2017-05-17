@@ -13,6 +13,7 @@ For now, here's a function about me.
 function getDeveloperInfo() {
     var dev = {
         name: '{{ site.data.me.name }}',
+        desc: '{{ site.data.me.tag }}'
         twitter: '{{ site.data.me.twitter }}',
         github: '{{ site.data.me.github }}',
         web: '{{ site.data.me.web }}',
