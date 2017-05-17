@@ -20,6 +20,11 @@
         {% endif %}
         </span>
     </h1>
+    {% if page.subtitle %}
+        <h2 class="subtitle">
+            {{ page.subtitle }}
+        </h2>
+    {% endif %}
     {% if page.id %}
     <aside>
         {{ page.date | date: "%m.%d.%y" }}
