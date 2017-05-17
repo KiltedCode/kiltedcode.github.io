@@ -13,4 +13,5 @@ Event: DevFestDC 2017<br />
 Date: May 6, 2017<br />
 Location: Tysons Corner, VA<br />
 Slides: [Myths of Angular](/talks/myths-of-angular.html)<br />
-Github: [mythbusters-angular](https://github.com/RHGeek/mythbusters-angular)
+Github: [mythbusters-angular](https://github.com/RHGeek/mythbusters-angular)<br />
+Blog: [Myths of Anuglar 2: What Angular Really Is](/posts/2017/myths-of-angular-devfest-dc.html)
