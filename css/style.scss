@@ -3,13 +3,17 @@
 @import '../_sass/bootstrap';
 @import '../_sass/syntax-highlighting';
 
+@font-face {
+    font-family: 'MythBusters';
+    src: url(/assets/font/MythBusters.ttf);
+}
+
 
 $scotch-primary: rgb(255, 69, 69);
 $scotch-secondary: #FF7B7B;
 
 %oswald { font-family: 'Oswald', sans-serif; }
 %roboto { font-family: 'Roboto Condensed', sans-serif; }
-
 
 body {
     @extend %roboto;
@@ -106,6 +110,10 @@ h1.special {
         &:before { left: 100%; }
         &:after { right: 100%; }
     }
+}
+
+h2.subtitle {
+    font-size: 35px;
 }
 
 .tile {
@@ -313,6 +321,23 @@ pre {
 .lead-icon-right {
     right: -.25em;
     bottom: -.25em;
+}
+
+
+.myth-busted {
+    display: inline-block;
+    font-family: 'MythBusters' !important;
+    font-size: 50px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+}
+
+img.inline-heart {
+    height: 1em;
+    padding: 0 4px;
+    position: relative;
+    top: -.1em;
+    vertical-align: middle;
 }
 
 
