@@ -5,7 +5,7 @@ permalink: /talks/
 lead_text: 'Sometimes they let me talk in front of people. Sometimes they even listen.'
 ---
 
-This is a collection of talks I've given. Ok... right now it's just the talk I am _giving_ but it will expand to include past talks.
+This is a collection of talks I've given. There's various degrees of content, from the slides and repos to even some videos and blogs.
 
 ## Myths of Angular 2: What Angular Really Is
 
