@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: 'Myths of Anuglar 2'
+title: 'Myths of Angular 2'
 subtitle: 'What Angular Really Is'
 date: 2017-05-16 22:45:00
 author: 'John Niedzwiecki'
