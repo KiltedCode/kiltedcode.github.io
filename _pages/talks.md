@@ -5,7 +5,19 @@ permalink: /talks/
 lead_text: 'Sometimes they let me talk in front of people. Sometimes they even listen.'
 ---
 
-This is a collection of talks I've given. There's various degrees of content, from the slides and repos to even some videos and blogs.
+This is a collection of upcoming conferences or meetups you can find me at and past talks I've given. There's various degrees of content, from the slides and repos to even some videos and blogs.
+
+# Upcoming Talks
+
+## Connect.Tech
+
+Event: [Connect.Tech 2017](http://connect.tech/)<br />
+Date: September 20-22, 2017<br />
+Location: Cobb Galleria, Atlanta, GA<br />
+Talk: D3 + Angular = Visual Awesomesauce<br />
+Talk: Myths of Angular 2: What Angular Really Is
+
+# Past Talks
 
 ## Myths of Angular 2: What Angular Really Is
 
