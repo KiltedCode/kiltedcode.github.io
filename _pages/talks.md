@@ -17,6 +17,13 @@ Location: Cobb Galleria, Atlanta, GA<br />
 Talk: D3 + Angular = Visual Awesomesauce<br />
 Talk: Myths of Angular 2: What Angular Really Is
 
+## AngularMix
+
+Event: [AngularMix 2017](https://angularmix.com/)<br />
+Date: October 10-12, 2017<br />
+Location: Royal Pacific Resort at Universal Studios, Orlando, FL<br />
+Talk: TBA
+
 # Past Talks
 
 ## Myths of Angular 2: What Angular Really Is
