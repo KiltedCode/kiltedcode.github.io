@@ -22,7 +22,8 @@ Talk: Myths of Angular 2: What Angular Really Is
 Event: [AngularMix 2017](https://angularmix.com/)<br />
 Date: October 10-12, 2017<br />
 Location: Royal Pacific Resort at Universal Studios, Orlando, FL<br />
-Talk: TBA
+Talk: D3 + AngularJS = Visual Awesomesauce<br />
+Talk: Guard that App from User Mayhem
 
 # Past Talks
 
