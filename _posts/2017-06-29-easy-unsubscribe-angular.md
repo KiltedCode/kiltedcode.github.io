@@ -122,6 +122,6 @@ export class ManualUnsubscribeComponent implements OnInit, OnDestroy {
 
 What we can see here is much simpler code. For each Observable we use, we compose it with the takeUntil operator and pass each the _same_ Subject, in our code named ngUnsubscribe. We don't need any other reference to the subscription, though for the case of the timer, I'm saving it in case we want to be able to stop it at any time. The purpose of the [takeUntil operator](http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html#instance-method-takeUntil) is to "emit the values emitted by the source Observable until a notifier Observable emits a value." The Subject (which extends Observable) we provide is the "notifier" so that when it says it is complete, the condition is met and _all_ Observables using our ngUnsubscribe will complete. That is what we are seeing in ngOnDestroy. When the component is destroyed we call next and complete on the subject, which will in turn tell the observables that they are complete. Now, we can add as many new Observables as we want without needing to add more Subscription variables and more manual unsubscribes.
 
-# #tl;dr
+# tl;dr
 
 Don't store subscriptions and manually unsubscribe. Instead, give every observable the same subject through <code>takeUntil</code> and complete the subject in ngOnDestroy to manage all observables at once.
