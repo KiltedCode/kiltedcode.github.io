@@ -34,6 +34,10 @@ a {
 
     &:hover { color: #6165FF; }
 }
+a[name] {
+    position: relative;
+    top: -50px;
+}
 .btn {
     text-transform: uppercase;
     font-weight: 400;
