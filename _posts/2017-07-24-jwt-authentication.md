@@ -4,7 +4,7 @@ title: 'JWT Authentication in Angular'
 date: 2017-07-24 22:00:00
 author: 'John Niedzwiecki'
 categories: angular development
-tags: angular javascript rxjs
+tags: angular javascript jwt
 featured_image: '/assets/img/whats-the-token.jpg'
 lead_text: 'JSON Web Tokens are a compact, self-contained, and verifiable object perfect for authentication.'
 comments: false
