@@ -7,7 +7,7 @@ categories: angular development
 tags: angular javascript jwt
 featured_image: '/assets/img/whats-the-token.jpg'
 lead_text: 'JSON Web Tokens are a compact, self-contained, and verifiable object perfect for authentication.'
-comments: false
+comments: true
 ---
 
 We all have dreams. We just don't all go sharing those dreams with every thug and ruffians we meet at the local watering hole, even if it is a five star joint. Sometimes, we keep those touchy-feely dreams to ourselves. For those private dream[app]s, we need authentication. One of the popular and easy ways to add authentication is through JSON Web Token (JWT).
