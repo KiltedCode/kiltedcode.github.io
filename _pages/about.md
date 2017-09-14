@@ -17,6 +17,7 @@ function getDeveloperInfo() {
         twitter: '{{ site.data.me.twitter }}',
         github: '{{ site.data.me.github }}',
         web: '{{ site.data.me.web }}',
+        email: '{{ site.data.me.email }}',
         currentDevLoves: ['Angular', 'JavaScript', 'd3', 'CSS instead of JS'],
         nonDevAttr : {
             husband: true,
