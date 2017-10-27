@@ -9,32 +9,46 @@ This is a collection of upcoming conferences or meetups you can find me at and p
 
 # Upcoming Talks
 
-## Connect.Tech
-
-Event: [Connect.Tech 2017](http://connect.tech/)<br />
-Date: September 20-22, 2017<br />
-Location: Cobb Galleria, Atlanta, GA<br />
-Talk: D3 + Angular = Visual Awesomesauce<br />
-Talk: Myths of Angular 2: What Angular Really Is
-
-## AngularMix
-
-Event: [AngularMix 2017](https://angularmix.com/)<br />
-Date: October 10-12, 2017<br />
-Location: Royal Pacific Resort at Universal Studios, Orlando, FL<br />
-Talk: [D3 + AngularJS = Visual Awesomesauce](https://angularmix.com/#!/speakers/John%20Niedzwiecki)<br />
-Talk: [Guard that App from User Mayhem](https://angularmix.com/#!/speakers/John%20Niedzwiecki)
+No scheduled upcoming talks.
 
 # Past Talks
+
+## Guard that App from User Mayhem
+
+Event: [AngularMix 2017](https://angularmix.com/)<br />
+Date: October 11, 2017<br />
+Location: Orlando, FL<br />
+Slides: [Guard that App from User Mayhem](https://github.com/RHGeek/guard-user-mayhem/blob/master/slides/angular-mix-guard-that-app-from-user-mayhem.pdf)<br />
+Github: [guard-user-mayhem](https://github.com/RHGeek/guard-user-mayhem)
+
+## D3 + Angular = Visual Awesomesauce
+
+Event: [AngularMix 2017](https://angularmix.com/)<br />
+Date: October 11, 2017<br />
+Location: Orlando, FL<br />
+Slides: [D3 + Angular = Visual Awesomesauce](https://github.com/RHGeek/d3-ng-visual-awesomesauce/blob/master/slides/angular-mix-d3-ng-visual-awesomesauce.pdf)<br />
+Github: [d3-ng-visual-awesomesauce](https://github.com/RHGeek/d3-ng-visual-awesomesauce)
+
+## Myths of Angular 2: What Angular Really Is
+
+Event: [Connect.Tech 2017](http://connect.tech/)<br />
+Date: September 22, 2017<br />
+Location: Atlanta, GA<br />
+Slides: [Myths of Angular](/talks/myths-of-angular.html)<br />
+Github: [mythbusters-angular](https://github.com/RHGeek/mythbusters-angular)<br />
+Blog: [Myths of Anuglar 2: What Angular Really Is](/posts/2017/myths-of-angular-devfest-dc.html)
+
+## D3 + Angular = Visual Awesomesauce
+
+Event: [Connect.Tech 2017](http://connect.tech/)<br />
+Date: September 21, 2017<br />
+Location: Atlanta, GA
 
 ## Myths of Angular 2: What Angular Really Is
 
 Event: [DevFestDC 2017](http://www.devfestdc.org/)<br />
 Date: May 6, 2017<br />
-Location: Tysons Corner, VA<br />
-Slides: [Myths of Angular](/talks/myths-of-angular.html)<br />
-Github: [mythbusters-angular](https://github.com/RHGeek/mythbusters-angular)<br />
-Blog: [Myths of Anuglar 2: What Angular Really Is](/posts/2017/myths-of-angular-devfest-dc.html)
+Location: Tysons Corner, VA
 
 ## Battle of the Application Frameworks: React vs Angular 
 
@@ -48,9 +62,7 @@ Video: [attendee video of Q&A](https://www.youtube.com/watch?v=vE5qDXIR2Bs)
 
 Event: [DevFestDC 2016](http://archive.devfestdc.org/)<br />
 Date: September 23, 2016<br />
-Location: Capital One, McLean, VA<br />
-Slides: [DevFestDC16 - D3 + Angular JS = Visual Awesomesauce](/talks/DevFestDC16-D3AngularJS-slides.pdf)<br />
-Github: [devfest-dc-visual-awesomesauce](https://github.com/RHGeek/devfest-dc-visual-awesomesauce)
+Location: Capital One, McLean, VA
 
 ## AngularJS: Prototypes You Don't Need to Throw Away
 
