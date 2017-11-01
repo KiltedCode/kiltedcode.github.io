@@ -36,7 +36,7 @@ Date: September 22, 2017<br />
 Location: Atlanta, GA<br />
 Slides: [Myths of Angular](/talks/myths-of-angular.html)<br />
 Github: [mythbusters-angular](https://github.com/RHGeek/mythbusters-angular)<br />
-Blog: [Myths of Anuglar 2: What Angular Really Is](/posts/2017/myths-of-angular-devfest-dc.html)
+Video: [Connect.Tect 2017 - Myths of Angular](https://www.recallact.com/presentation/myths-angular-2-what-angular-really)
 
 ## D3 + Angular = Visual Awesomesauce
 
@@ -48,7 +48,8 @@ Location: Atlanta, GA
 
 Event: [DevFestDC 2017](http://www.devfestdc.org/)<br />
 Date: May 6, 2017<br />
-Location: Tysons Corner, VA
+Location: Tysons Corner, VA<br />
+Blog: [Myths of Anuglar 2: What Angular Really Is](/posts/2017/myths-of-angular-devfest-dc.html)
 
 ## Battle of the Application Frameworks: React vs Angular 
 
