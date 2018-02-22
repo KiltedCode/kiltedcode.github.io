@@ -42,7 +42,8 @@ Video: [Connect.Tect 2017 - Myths of Angular](https://www.recallact.com/presenta
 
 Event: [Connect.Tech 2017](http://connect.tech/)<br />
 Date: September 21, 2017<br />
-Location: Atlanta, GA
+Location: Atlanta, GA<br />
+Video: [Connect.Tect 2017 - D3 + Angular = Visual Awesome Sauce](https://www.recallact.com/presentation/d3-angular-visual-awesome-sauce)
 
 ## Myths of Angular 2: What Angular Really Is
 
