@@ -13,12 +13,18 @@ For now, here's a function about me.
 function getDeveloperInfo() {
     var dev = {
         name: '{{ site.data.me.name }}',
-        desc: '{{ site.data.me.tag }}'
+        desc: '{{ site.data.me.tag }}',
         twitter: '{{ site.data.me.twitter }}',
         github: '{{ site.data.me.github }}',
         web: '{{ site.data.me.web }}',
         email: '{{ site.data.me.email }}',
-        currentDevLoves: ['Angular', 'JavaScript', 'd3', 'CSS instead of JS'],
+        currentDevLoves: ['Angular', 'JavaScript', 'NativeScript'. 'd3', 'CSS instead of JS'],
+        books: [
+            {
+                name: 'Angular 5 Companion Guide',
+                link: 'https://www.packtpub.com/free-ebook/angular-5-companion-guide'
+            }
+        ],
         nonDevAttr : {
             husband: true,
             father: true,
@@ -30,5 +36,5 @@ function getDeveloperInfo() {
     return dev;
 }
 
-console.debug(getDeveloperInfo());
+console.log(getDeveloperInfo());
 {% endhighlight %}
