@@ -108,3 +108,5 @@ That's a difference of 14 vs 28 files, mostly from dropping all the configuratio
   You'll notice <code>"spec": false</code> appearing throughout. This tells the CLI to not generate a spec file when you generate a new piece of your application. In addition, it set <code>"inlineStyle": true</code> and <code>"inlineTemplate": true</code>, telling the CLI to set components to use inline instead of creating additional HTML and CSS files. Now, when you generate anything new within your project, you'll get just the minimum files, making it more compact and simple to play around. You're ready to rock and code.
 
   That concludes our first byte. Just a little code snack. A little nosh, if you would like. Hope you enjoyed.
+
+  <small>Image credit: Ash Edmonds on [Unsplash](https://unsplash.com/photos/Koxa-GX_5zs), edited</small>
