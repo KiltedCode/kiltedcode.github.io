@@ -1,7 +1,7 @@
 # Site Settings
-title: 'RHGeek'
-description: 'Ramblings of a redheaded developer.'
-url: 'https://rhgeek.github.io' # the base hostname & protocol for your site
+title: 'Kilted Code'
+description: 'Ramblings of a kilt wearing developer.'
+url: 'https://kiltedcode.github.io' # the base hostname & protocol for your site
 footer_text: 'All ramblings, views, opinions, and random junk here are my own.'
 
 # Admin Settings
