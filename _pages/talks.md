@@ -9,7 +9,21 @@ This is a collection of upcoming conferences or meetups you can find me at and p
 
 # Upcoming Talks
 
-No scheduled upcoming talks.
+## AngularMix
+
+Event: [AngularMix 2018](https://angularmix.com/)<br />
+Date: October 10 - 12, 2018<br />
+Location: Royal Pacific Resort at Universal Studios, Orlando, FL<br />
+Talk: Let's Get Local: Angular Localization<br />
+Talk: One Source to Rule them All
+
+## Connect.Tech
+
+Event: [Connect.Tech 2018](http://connect.tech/)<br />
+Date: October 17 - 19, 2018<br />
+Location: Cobb Galleria, Atlanta, GA<br />
+Talk: Let's Get Local: Angular Localization<br />
+Talk: One Source to Rule them All
 
 # Past Talks
 
