@@ -11,14 +11,14 @@ For now, here's a function about me.
 
 {% highlight javascript %}
 function getDeveloperInfo() {
-    var dev = {
+    const dev = {
         name: '{{ site.data.me.name }}',
         desc: '{{ site.data.me.tag }}',
         twitter: '{{ site.data.me.twitter }}',
         github: '{{ site.data.me.github }}',
         web: '{{ site.data.me.web }}',
         email: '{{ site.data.me.email }}',
-        currentDevLoves: ['Angular', 'JavaScript', 'NativeScript'. 'd3', 'CSS instead of JS'],
+        currentDevLoves: ['Angular', 'JavaScript', 'NativeScript'. 'd3', 'CSS fun'],
         books: [
             {
                 name: 'Angular 5 Companion Guide',
